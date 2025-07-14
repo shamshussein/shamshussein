@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @shamshussein
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning MERN stack development and looking forward to develop my security and cloud computing skills.
-- 💞️ I’m looking to collaborate on github with you fellows!
-- 📫 You can reach me through my business email => hussein.youssef.shams@gmail.com
-- 😄 Pronouns: Alpha
-
+- 👋 Hi, I’m Hussein Shams (`@shamshussein`).
+- 👀 Passionate about building scalable, maintainable applications.
+- 🌱 Transform ideas into robust software solutions that help businesses grow.
+- 🤝 Let’s build impactful projects together—feel free to explore my repositories!
+- 📫 You can reach me through my business email => hussein.youssef.shams@gmail.com.
